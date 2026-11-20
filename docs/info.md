@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Gracias a la tabla de la verdad, podemos implementar en codigo binario en el circuito de wokwi y así testear con números y letra
 
 ## How to test
 
-Explain how to use your project
+Copiamos el codigo hecho en tinytypeout, y así insertarlo en wokwi para emplear la nueva funcion del codigo
 
 ## External hardware
 
