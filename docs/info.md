@@ -17,4 +17,4 @@ Copiamos el codigo hecho en tinytypeout, y así insertarlo en wokwi para emplear
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Any 7-segment display.
